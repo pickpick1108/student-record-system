@@ -1,14 +1,15 @@
 # Student Record Management System
 
-This is a simple C programming project that manages student records.
+This is a simple C programming project that manages student records using a menu-driven system.
 
-## Features
-- Add student information
+Features
+- Add student record
 - View student records
-- Simple menu-driven program
+- Search student by ID
+- Delete student record
 
-## Technology Used
+Technologies Used
 - C Programming
 
-## Author
+Author
 Shravani Naik
